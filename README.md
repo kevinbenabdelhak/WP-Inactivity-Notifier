@@ -58,12 +58,17 @@ Une fois la première alerte envoyée, des emails de rappel seront transmis à i
 ### Où puis-je voir l’historique des emails envoyés ?
 Consultez la page de configuration du plugin pour voir un résumé des 20 derniers emails envoyés.
 
-## Changelog
+## MAJ
 
-**= 1.0.0 =**  
+** 1.0.0 **  
 - Envoi d’une alerte email sur inactivité  
 - Widget de suivi dans le tableau de bord  
 - Ajout de la fréquence des rappels récurrents paramétrable (jours/heures/minutes)  
 - Possibilité de saisir plusieurs emails de notification  
 - Historique des derniers emails envoyés  
-- Choix des types de contenus à surveiller  
+- Choix des types de contenus à surveiller
+
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
