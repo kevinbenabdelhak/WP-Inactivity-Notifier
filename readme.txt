@@ -1,4 +1,4 @@
-=== WP Content Update Alert ===
+=== WP Inactivity Notifier ===
 
 Contributors: kevinbenabdelhak
 Tags: alerte, email, publication, inactivité, contenu, cron, dashboard
@@ -13,7 +13,7 @@ Recevez une alerte email si votre site n'a pas publié de nouveaux contenus depu
 
 == Description ==
 
-WP Content Update Alert surveille l'inactivité du contenu de votre site WordPress et vous alerte automatiquement par email.
+WP Inactivity Notifier surveille l'inactivité du contenu de votre site WordPress et vous alerte automatiquement par email.
 
 Ce plugin professionnel est idéal afin d’assurer une vigilance éditoriale sur un site ou un blog, pour vous ou vos clients.
 
@@ -39,7 +39,7 @@ Après installation, cliquez sur « Activer ».
 
 Configurez vos options :
 
-Menu « Réglages » > « WP Content Update Alert »
+Menu « Réglages » > « WP Inactivity Notifier »
 Entrez la/les adresses email, la durée avant alerte, les contenus à surveiller, etc.
 == Frequently Asked Questions ==
 
