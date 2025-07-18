@@ -4,7 +4,7 @@ if (!defined('ABSPATH')) {
 }
 
 
-
+// Ce fichier n'est pas un cron, bien qu'il se trouve dans le dossier cron. Cette partie sera modifié à la prochaine version
 
 function win_activate() {
     if (!wp_next_scheduled('win_check_inactivity_hook'))
