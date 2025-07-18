@@ -1,6 +1,6 @@
 # WP Inactivity Notifier
 
-**Contributors:** kevinbenabdelhak  
+**Contributors:** kevinbenabdelhak, JBGOUTTES
 **Tags:** alerte, email, publication, inactivité, contenu, cron, dashboard  
 **Requires at least:** 5.0  
 **Tested up to:** 6.6.2  
