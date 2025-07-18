@@ -11,7 +11,7 @@
 
 Recevez une alerte email si votre site n'a pas publié de nouveaux contenus depuis un certain temps. Suivi de l'activité sur plusieurs types de contenus, rappels automatiques, et widget de statut dans le tableau de bord.
 
-[![Voir le tutoriel](https://img.youtube.com/vi/cFkSGwZtW9c/hqdefault.jpg)](https://www.youtube.com/watch?v=cFkSGwZtW9c)
+[![Voir le tutoriel](https://img.youtube.com/vi/cFkSGwZtW9c/maxresdefault.jpg)](https://www.youtube.com/watch?v=cFkSGwZtW9c)
 
 
 ## Description
